@@ -1,5 +1,5 @@
 ---
-title: "Javed Paint Syndicate"
+title: "Javed Paint syndicate"
 url: /karachi/javed-paint-syndicate/
-shop: shop
+shop: paint
 ---
