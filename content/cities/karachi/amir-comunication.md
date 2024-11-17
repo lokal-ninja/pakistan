@@ -1,5 +1,5 @@
 ---
-title: "Amir Comunication"
+title: "Amir comunication"
 url: /karachi/amir-comunication/
-shop: shop
+shop: mobile phone
 ---
