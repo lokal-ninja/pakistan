@@ -1,5 +1,5 @@
 ---
-title: "Farhan Autos"
+title: "Farhan autos"
 url: /karachi/farhan-autos/
-shop: car
+shop: shop
 ---
