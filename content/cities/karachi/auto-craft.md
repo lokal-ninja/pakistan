@@ -1,5 +1,5 @@
 ---
-title: "AUTO CRAFT"
+title: "Auto Craft"
 url: /karachi/auto-craft/
-shop: car repair
+shop: car
 ---
