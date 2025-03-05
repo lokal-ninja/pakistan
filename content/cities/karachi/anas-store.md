@@ -1,5 +1,5 @@
 ---
-title: "Anas Store"
+title: "Anas store"
 url: /karachi/anas-store/
 shop: shop
 ---
