@@ -1,6 +1,6 @@
 ---
-title: Gujrat
+title: gujrat
 url: /gujrat/
-latitude: 32.587
-longitude: 74.054
+latitude: 32.63
+longitude: 74.156
 ---
