@@ -1,5 +1,5 @@
 ---
-title: "S.M Power Engineering"
+title: "S.M.Power Engineering"
 url: /karachi/s-m-power-engineering/
-shop: electronics
+shop: electrical
 ---

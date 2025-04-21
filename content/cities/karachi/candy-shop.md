@@ -1,5 +1,5 @@
 ---
-title: "candy shop"
+title: "Candy.shop"
 url: /karachi/candy-shop/
-shop: general
+shop: clothes
 ---
