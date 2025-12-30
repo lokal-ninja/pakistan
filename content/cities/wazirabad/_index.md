@@ -1,6 +1,6 @@
 ---
 title: wazirabad
 url: /wazirabad/
-latitude: 32.454
-longitude: 74.111
+latitude: 32.44
+longitude: 74.115
 ---
