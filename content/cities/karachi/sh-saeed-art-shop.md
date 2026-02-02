@@ -1,5 +1,5 @@
 ---
-title: "SH Saeed Art Shop"
+title: "SH SAEED ART SHOP"
 url: /karachi/sh-saeed-art-shop/
 shop: art
 ---
