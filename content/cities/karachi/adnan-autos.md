@@ -1,5 +1,5 @@
 ---
-title: "ADNAN AUTOS"
+title: "Adnan autos"
 url: /karachi/adnan-autos/
-shop: car
+shop: shop
 ---
