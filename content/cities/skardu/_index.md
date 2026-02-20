@@ -1,6 +1,6 @@
 ---
 title: Skardu
 url: /skardu/
-latitude: 35.295
-longitude: 75.606
+latitude: 35.3
+longitude: 75.634
 ---
