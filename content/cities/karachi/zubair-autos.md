@@ -1,5 +1,5 @@
 ---
-title: "Zubair autos"
+title: "Zubair Autos"
 url: /karachi/zubair-autos/
-shop: car parts
+shop: motorcycle
 ---
