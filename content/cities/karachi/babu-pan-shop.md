@@ -1,5 +1,5 @@
 ---
-title: "Babu pan shop"
+title: "Babu Pan Shop"
 url: /karachi/babu-pan-shop/
-shop: pawnbroker
+shop: shop
 ---

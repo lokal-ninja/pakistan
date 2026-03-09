@@ -1,5 +1,5 @@
 ---
-title: "Yasir Electric Store"
+title: "Yasir electric store"
 url: /karachi/yasir-electric-store/
-shop: electronics
+shop: electrical
 ---
