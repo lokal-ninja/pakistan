@@ -1,5 +1,5 @@
 ---
-title: "Al madina traders"
+title: "Al-Madina Traders"
 url: /karachi/al-madina-traders/
-shop: electronics
+shop: wholesale
 ---

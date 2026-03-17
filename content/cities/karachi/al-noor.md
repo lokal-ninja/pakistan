@@ -1,5 +1,5 @@
 ---
-title: "al noor"
+title: "AL noor"
 url: /karachi/al-noor/
-shop: general
+shop: computer
 ---
