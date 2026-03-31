@@ -1,5 +1,5 @@
 ---
 title: "Ali Motors"
 url: /karachi/ali-motors/
-shop: car
+shop: car repair
 ---
