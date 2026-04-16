@@ -1,5 +1,5 @@
 ---
-title: "MUGHAL AUTO'S"
+title: "Mughal Autos"
 url: /karachi/mughal-autos/
-shop: motorcycle
+shop: shop
 ---
