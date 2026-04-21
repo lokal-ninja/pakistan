@@ -1,5 +1,5 @@
 ---
-title: "Al-Rehman Store"
+title: "AL REHMAN STORE"
 url: /karachi/al-rehman-store/
 shop: general
 ---
