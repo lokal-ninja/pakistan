@@ -1,5 +1,5 @@
 ---
-title: "SK AUTOS"
+title: "SK Autos"
 url: /karachi/sk-autos/
 shop: motorcycle
 ---

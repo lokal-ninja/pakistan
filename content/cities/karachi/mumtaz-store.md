@@ -1,5 +1,5 @@
 ---
-title: "Mumtaz store."
+title: "Mumtaz store"
 url: /karachi/mumtaz-store/
 shop: general
 ---
