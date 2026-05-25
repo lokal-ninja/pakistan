@@ -1,6 +1,6 @@
 ---
 title: Quetta
 url: /quetta/
-latitude: 30.188
-longitude: 67.012
+latitude: 30.178
+longitude: 67.01
 ---
