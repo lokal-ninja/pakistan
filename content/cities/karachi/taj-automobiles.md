@@ -1,5 +1,5 @@
 ---
-title: "TAJ AUTOMOBILES"
+title: "Taj Automobiles"
 url: /karachi/taj-automobiles/
-shop: car
+shop: shop
 ---

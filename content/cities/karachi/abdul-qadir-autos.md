@@ -1,5 +1,5 @@
 ---
-title: "Abdul Qadir Autos"
+title: "Abdul Qadir auto's"
 url: /karachi/abdul-qadir-autos/
-shop: motorcycle
+shop: shop
 ---

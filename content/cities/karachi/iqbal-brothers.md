@@ -1,5 +1,5 @@
 ---
-title: "Iqbal brothers"
+title: "Iqbal Brothers"
 url: /karachi/iqbal-brothers/
-shop: shop
+shop: office supplies
 ---
