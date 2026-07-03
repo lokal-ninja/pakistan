@@ -1,6 +1,6 @@
 ---
 title: Qazi Ahmed
 url: /qazi-ahmed/
-latitude: 26.303
-longitude: 68.1
+latitude: 26.384
+longitude: 68.046
 ---
