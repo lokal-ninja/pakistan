@@ -1,5 +1,5 @@
 ---
-title: "Zubaida's"
+title: "Zubaidas"
 url: /karachi/zubaidas/
 shop: baby goods
 ---
