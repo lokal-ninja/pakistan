@@ -1,6 +1,6 @@
 ---
-title: karach
+title: Karach
 url: /karach/
-latitude: 24.914
-longitude: 67.062
+latitude: 24.916
+longitude: 67.06
 ---
