@@ -1,6 +1,6 @@
 ---
 title: ملتان
 url: /mltn/
-latitude: 30.209
-longitude: 71.497
+latitude: 30.188
+longitude: 71.437
 ---
