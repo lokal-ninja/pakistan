@@ -1,5 +1,5 @@
 ---
-title: "Computer Clinic"
+title: "Computer clinic"
 url: /karachi/computer-clinic/
-shop: computer
+shop: wholesale
 ---
