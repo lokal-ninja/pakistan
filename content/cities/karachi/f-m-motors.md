@@ -1,5 +1,5 @@
 ---
-title: "F.M MOTORS"
+title: "F. M motors"
 url: /karachi/f-m-motors/
-shop: car repair
+shop: shop
 ---
